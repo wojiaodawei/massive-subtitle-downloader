@@ -11,7 +11,7 @@ This project is composed of 2 big steps:
 *listMovies.py* is a Python script to search via an API for the *id_movie_imdb* IDs of the movies you want on [*IMDb*](https://www.imdb.com/), an online database of information related to movies.
 
 *id_movie_imdb* is an unique ID given by IMDb to a movie.
-It can be found in the URL. For example if you open IMDb for a movie, say "The Dark night rises", the URL will be "https://www.imdb.com/title/tt1345836/". This last text "tt1345836" is the *id_movie_imdb* for this movie.
+It can be found in the URL. For example if you open IMDb for a movie, say "The Dark Knight Rises", the URL will be "https://www.imdb.com/title/tt1345836/". This last text "tt1345836" is the *id_movie_imdb* for this movie.
 
 The API used is [**IMDbPY**](https://imdbpy.github.io/), a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies.
 
